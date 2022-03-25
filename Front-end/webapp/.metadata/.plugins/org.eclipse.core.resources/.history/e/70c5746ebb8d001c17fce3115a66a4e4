@@ -1,0 +1,12 @@
+package br.com.crud.model;
+
+public class Viagem {
+
+	private long id;
+	private String origem;
+	private String destino;
+	private double preco;
+	
+	
+	
+}
